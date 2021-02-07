@@ -1,4 +1,4 @@
-# M1-Computer-Vision
+# Computer-Vision
 The code was entirely written in matlab but also some ideas have been explored in openCV python library.
 
 This project work includes:
